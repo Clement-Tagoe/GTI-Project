@@ -16,6 +16,9 @@ html, body {
   width: 100%;
   height: 650px;
 }
+.graduant-cert img {
+  margin-top: 70px;
+}
 .background-image img {
   max-width: 100%;
   height: 650px;
